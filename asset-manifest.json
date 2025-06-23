@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kumesoft-interview1/static/css/main.0a315086.css",
+    "main.js": "/kumesoft-interview1/static/js/main.0d9a0e89.js",
+    "index.html": "/kumesoft-interview1/index.html",
+    "main.0a315086.css.map": "/kumesoft-interview1/static/css/main.0a315086.css.map",
+    "main.0d9a0e89.js.map": "/kumesoft-interview1/static/js/main.0d9a0e89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a315086.css",
+    "static/js/main.0d9a0e89.js"
+  ]
+}
