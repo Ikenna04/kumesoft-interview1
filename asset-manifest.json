@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kumesoft-interview1/static/css/main.0a315086.css",
-    "main.js": "/kumesoft-interview1/static/js/main.0d9a0e89.js",
+    "main.css": "/kumesoft-interview1/static/css/main.8052e8d9.css",
+    "main.js": "/kumesoft-interview1/static/js/main.e28ac4cb.js",
     "index.html": "/kumesoft-interview1/index.html",
-    "main.0a315086.css.map": "/kumesoft-interview1/static/css/main.0a315086.css.map",
-    "main.0d9a0e89.js.map": "/kumesoft-interview1/static/js/main.0d9a0e89.js.map"
+    "main.8052e8d9.css.map": "/kumesoft-interview1/static/css/main.8052e8d9.css.map",
+    "main.e28ac4cb.js.map": "/kumesoft-interview1/static/js/main.e28ac4cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a315086.css",
-    "static/js/main.0d9a0e89.js"
+    "static/css/main.8052e8d9.css",
+    "static/js/main.e28ac4cb.js"
   ]
 }
