@@ -2,8 +2,6 @@ import React, { useState } from 'react';
 import api from './api/post';
 import { format } from 'date-fns';
 import { Link, useNavigate } from 'react-router-dom';
-import { ImBackward } from 'react-icons/im';
-import { HiBackward } from 'react-icons/hi2';
 import { GrPrevious } from 'react-icons/gr';
 
 const Post = ({ posts, setPosts }) => {

@@ -9,7 +9,7 @@ const Post = ({ posts }) => {
 		<>
 			<nav>
 				<h1>my posts</h1>
-				<button>
+				<button className='bs'>
 					<Link to='/create'>Add New Post</Link>
 				</button>
 			</nav>
@@ -31,7 +31,7 @@ const Post = ({ posts }) => {
 					''
 				)}
 			</main>
-			<footer>&copy;ezeorahikenna {currentYear.getFullYear()} </footer>
+			<footer>ezeorahikenna &copy;{currentYear.getFullYear()} </footer>
 		</>
 	);
 };
